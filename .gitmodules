@@ -1,0 +1,3 @@
+[submodule "teb_local_planner"]
+	path = teb_local_planner
+	url = git@github.com:huashuichengbing/teb_local_planner.git
