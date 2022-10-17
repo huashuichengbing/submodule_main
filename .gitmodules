@@ -1,3 +1,6 @@
 [submodule "teb_local_planner"]
 	path = teb_local_planner
 	url = git@github.com:huashuichengbing/teb_local_planner.git
+[submodule "routing_planning"]
+	path = routing_planning
+	url = git@github.com:huashuichengbing/routing_planning.git
